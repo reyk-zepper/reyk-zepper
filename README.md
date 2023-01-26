@@ -1,15 +1,11 @@
-### codeCLEAN cleanCODE
+### WELCOME🙏🏻
 
-#monkindey { 
-  position: Hángzhōu; 
-  height: 171cm; 
-  display: boy; 
-  background: Tinker Resolver 🔨; 
-  color: yellow 
+`const reyk = function() {
+
+
+
 }
-
-
-
+return 'Thanks for dropping into my profile, if you're intersted....contact me!?`
 
 
 <!--
