@@ -14,12 +14,13 @@ return console.log('Thanks for dropping into my profile, if you're intersted....
 
 
 # technologies & tools
-
-![image](https://user-images.githubusercontent.com/117449040/214816959-ad4308c6-b9e8-4b77-a81b-05a1c399eeda.png)
-![image](https://user-images.githubusercontent.com/117449040/214816848-9c6e27e5-f029-4a22-ac2d-30e7fd1c77ab.png)
-
 ![apple logo](Assets/icons8-mac-os-30.png)
 ![windows logo](Assets/icons8-windows-11-30.png)
+![html logo](Assets/icons8-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-30.png)
+![css logo](Assets/icons8-css3-30.png)
+![js logo](Assets/icons8-javascript-logo-30.png)
+![react logo](Assets/icons8-react-native-30.png)
+![node.js logo](Assets/icons8-node.js-30.png)
 
 >__cleanCODE__  
 >__codeCLEAN__
