@@ -2,7 +2,7 @@
 
 
 ```javascript
-const reykZepper = function() {
+const human = function() {
 name = 'reyk zepper';
 role = 'webDev Student';
 language = de, en;
