@@ -1,6 +1,7 @@
 ### WELCOME🙏🏻
 
-`const reyk = function() {
+```javascript
+const reyk = function() {
 name = 'reyk zepper';
 role = 'webDev Student';
 language = de, en
