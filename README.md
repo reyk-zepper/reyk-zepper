@@ -7,7 +7,7 @@ name = 'reyk zepper';
 role = 'webDev Student';
 language = de, en;
 
-return console.log('Thanks for dropping into my profile, if you're intersted....contact me!?'); 
+return console.log('Thanks for dropping into my profile, if you're intersted...contact me!?'); 
 };
 ```
 
