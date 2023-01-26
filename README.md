@@ -19,7 +19,7 @@ return console.log('Thanks for dropping into my profile, if you're intersted....
 ![image](https://user-images.githubusercontent.com/117449040/214816848-9c6e27e5-f029-4a22-ac2d-30e7fd1c77ab.png)
 
 ![apple logo](Assets/icons8-mac-os-30.png)
-
+![windows logo](Assets/icons8-windows-11-30.png)
 
 >__cleanCODE__  
 >__codeCLEAN__
