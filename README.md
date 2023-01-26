@@ -23,6 +23,6 @@ return console.log('Thanks for dropping into my profile, if you're intersted...c
 ![node.js logo](Assets/icons8-node.js-30.png)
 ![vs code logo](Assets/icons8-visual-studio-30.png)
 
->__cleanCODE__  
->__codeCLEAN__
+>__.cleanCODE__  
+> __.codeCLEAN__
 
