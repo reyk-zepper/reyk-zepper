@@ -24,5 +24,5 @@ return console.log('Thanks for dropping into my profile, if you're intersted...c
 ![vs code logo](Assets/icons8-visual-studio-30.png)
 
 >__.cleanCODE__  
-> __.codeCLEAN__
+>  __.codeCLEAN__
 
