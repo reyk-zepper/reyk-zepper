@@ -13,3 +13,6 @@ return console.log('Thanks for dropping into my profile, if you're intersted....
 
 >__cleanCODE__  
 >__codeCLEAN__
+
+
+# technologies & tools
