@@ -18,9 +18,10 @@ return console.log('Thanks for dropping into my profile, if you're intersted....
 ![windows logo](Assets/icons8-windows-11-30.png)
 ![html logo](Assets/icons8-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-30.png)
 ![css logo](Assets/icons8-css3-30.png)
-![js logo](Assets/icons8-javascript-logo-30.png)
+![js logo](Assets/icons8-javascript-30.png)
 ![react logo](Assets/icons8-react-native-30.png)
 ![node.js logo](Assets/icons8-node.js-30.png)
+![vs code logo](Assets/icons8-visual-studio-30.png)
 
 >__cleanCODE__  
 >__codeCLEAN__
