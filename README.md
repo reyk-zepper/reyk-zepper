@@ -22,6 +22,8 @@ return console.log('Thanks for dropping into my profile, if you're intersted...c
 ![react logo](Assets/icons8-react-native-30.png)
 ![node.js logo](Assets/icons8-node.js-30.png)
 ![vs code logo](Assets/icons8-visual-studio-30.png)
+![git logo](Assets/icons8-git-30.png)
+![github code logo](Assets/icons8-github-30.png)
 
 >__.cleanCODE__  
 >  &nbsp; __.codeCLEAN__
