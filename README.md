@@ -25,6 +25,6 @@ return console.log('Thanks for dropping into my profile, if you're intersted...c
 ![git logo](Assets/icons8-git-30.png)
 ![github code logo](Assets/icons8-github-30.png)
 
->__.cleanCODE__  
->  &nbsp; __.codeCLEAN__
+<!-- >__.cleanCODE__  
+>  &nbsp; __.codeCLEAN__ -->
 
