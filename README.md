@@ -28,7 +28,7 @@ return console.log("Thanks for dropping into my profile, if you're intersted...c
 
 <!-- >__.cleanCODE__  
 >  &nbsp; __.codeCLEAN__ -->
-[![reyk's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyk-zepper&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-![reyk's GitHub stats](https://github-readme-stats.vercel.app/api?username=reyk-zepper&theme=transparent&show_icons=true)
+
+![reyk's GitHub stats](https://github-readme-stats.vercel.app/api?username=reyk-zepper&theme=transparent&show_icons=true)[![reyk's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyk-zepper&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
