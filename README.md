@@ -28,5 +28,5 @@ return console.log("Thanks for dropping into my profile, if you're intersted...c
 
 <!-- >__.cleanCODE__  
 >  &nbsp; __.codeCLEAN__ -->
-![Reyk's GitHub stats](https://github-readme-stats.vercel.app/api?username=reyk-zepper&theme=jolly_icons=true)
+![Reyk's GitHub stats](https://github-readme-stats.vercel.app/api?username=reyk-zepper&theme=transparent_icons=true)
 
