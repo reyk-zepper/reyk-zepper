@@ -13,7 +13,7 @@ return console.log("Thanks for dropping into my profile, if you're intersted...c
 
 
 
-# technologies & tools
+# technologies, tools & stats
 
 ![react logo](Assets/icons8-react-native-30.png)
 ![js logo](Assets/icons8-javascript-30.png)
