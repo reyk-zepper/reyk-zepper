@@ -2,44 +2,43 @@
 
 
 ```javascript
-const reyk = {
-  name: 'Reyk Zepper',
-  profession: 'ECM Consultant',
-  skills: [ 'Archivierung', 'Datenbanken' ],
-  passions: [ 'Programmieren', 'Tiere', 'Natur' ],
-  favoriteAnimals: [ 'Hunde' ],
-  programmingLanguages: [ 'JavaScript', 'Python' ],
-  isTechNerd: true,
-  code: [Function: code],
-  interactWithAnimals: [Function: interactWithAnimals],
-  exploreNature: [Function: exploreNature],
-  liveLife: [Function: liveLife]
+const human = () => {
+  const reyk = {
+    name: 'Reyk Zepper',
+    profession: 'ECM Consultant',
+    skills: ['Archivierung', 'Datenbanken'],
+    passions: ['Programmieren', 'Tiere', 'Natur'],
+    favoriteAnimals: ['Hunde'],
+    programmingLanguages: ['JavaScript', 'Python'],
+    isTechNerd: true,
 
- code(language) {
-    return `loves to code in ${language}.`;
-  },
+    code(language) {
+      return `Loves to code in ${language}.`;
+    },
 
-  interactWithAnimals() {
-    return `Verbringt gerne Zeit mit ${this.favoriteAnimals.join(' und ')}.`;
-  },
+    interactWithAnimals() {
+      return `Verbringt gerne Zeit mit ${this.favoriteAnimals.join(' und ')}.`;
+    },
 
-  exploreNature() {
-    return 'Erkundet die Natur und findet Inspiration für neue Ideen.';
-  },
+    exploreNature() {
+      return 'Erkundet die Natur und findet Inspiration für neue Ideen.';
+    },
 
-  liveLife() {
-    const codingActivities = this.programmingLanguages
-      .map((lang) => this.code(lang))
-      .join(' ');
-    const animalInteraction = this.interactWithAnimals();
-    const natureExploration = this.exploreNature();
-    return `${codingActivities} ${animalInteraction} ${natureExploration} Liebt, was er tut, mit voller Passion!`;
-  },
+    liveLife() {
+      const codingActivities = this.programmingLanguages
+        .map((lang) => this.code(lang))
+        .join(' ');
+      const animalInteraction = this.interactWithAnimals();
+      const natureExploration = this.exploreNature();
+      return `${codingActivities} ${animalInteraction} ${natureExploration} Liebt, was er tut, mit voller Passion!`;
+    },
+  };
+
+  console.log(reyk);
+  console.log(reyk.liveLife());
 };
 
-console.log(reyk);
-console.log(reyk.liveLife());
-}
+human();
 ```
 
 
