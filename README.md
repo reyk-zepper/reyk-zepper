@@ -6,7 +6,7 @@ const human = () => {
   const reyk = {
     name: 'Reyk Zepper',
     profession: 'ECM Consultant',
-    skills: ['Archivierung', 'Datenbanken'],
+    skills: ['Archive', 'Datenbanken'],
     passions: ['Programmieren', 'Tiere', 'Natur'],
     favoriteAnimals: ['Hunde'],
     programmingLanguages: ['JavaScript', 'Python'],
