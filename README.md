@@ -1,4 +1,4 @@
-izME
+izME®
 
 
 
