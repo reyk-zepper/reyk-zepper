@@ -1,6 +1,6 @@
 
+![](Assets/image.png)
 
-<br>®</br>
 
 
 
