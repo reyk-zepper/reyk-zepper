@@ -2,7 +2,7 @@
 
 
 
-
+<!--
 # technologies, tools & stats
 
 ![react logo](Assets/icons8-react-native-30.png)
@@ -15,7 +15,7 @@
 ![github code logo](Assets/icons8-github-30.png)
 ![apple logo](Assets/icons8-mac-os-30.png)
 ![windows logo](Assets/icons8-windows-11-30.png)
-
+-->
 <!-- >__.cleanCODE__  
 >  &nbsp; __.codeCLEAN__ -->
 ---
