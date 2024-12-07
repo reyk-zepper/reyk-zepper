@@ -1,5 +1,4 @@
 
-![](Assets/image.png)
 
 
 
